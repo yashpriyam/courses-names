@@ -1,5 +1,5 @@
 {
-  "name": "starwars-names",
+  "name": "course-names",
   "version": "0.0.0-semantically-released",
   "description": "Get random Star Wars names",
   "main": "dist/index.js",
@@ -24,23 +24,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kentcdodds/starwars-names.git"
+    "url": "https://github.com/yashpriyam/course-names.git"
   },
   "keywords": [
     "random",
-    "star",
-    "wars"
+    "courses"
   ],
   "files": [
     "dist",
     "README.md"
   ],
-  "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
+  "author": "Yash Priyam <yashpriyam74@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kentcdodds/starwars-names/issues"
+    "url": "https://github.com/yashpriyam/course-names/issues"
   },
-  "homepage": "https://github.com/kentcdodds/starwars-names#readme",
+  "homepage": "https://github.com/yashpriyam/course-names#readme",
   "dependencies": {
     "unique-random-array": "1.0.0"
   },
