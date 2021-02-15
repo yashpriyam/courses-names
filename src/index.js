@@ -1,5 +1,5 @@
 import uniqueRandomArray from 'unique-random-array';
-import courseNames from './course-names.json';
+import courseNames from './courses-names.json';
 
 const getRandomItem = uniqueRandomArray(courseNames);
 
