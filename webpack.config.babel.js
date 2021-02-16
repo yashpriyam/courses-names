@@ -7,7 +7,7 @@ export default {
   output: {
     path: join(__dirname, 'dist'),
     libraryTarget: 'umd',
-    library: 'coursenames',
+    library: 'yashfscoursenames',
   },
   devtool: 'source-map',
   module: {
