@@ -1,7 +1,7 @@
 {
-  "name": "course-names",
-  "version": "0.0.1-semantically-released",
-  "description": "Get random Star Wars names",
+  "name": "courseNames",
+  "version": "0.0.2-semantically-released",
+  "description": "Get random courses names",
   "main": "dist/index.js",
   "scripts": {
     "commit": "git-cz",

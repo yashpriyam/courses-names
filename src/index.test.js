@@ -1,7 +1,7 @@
 import {expect} from 'chai';
 import courses from './index';
 
-describe('course-names', function() {
+describe('courseNames', function() {
   describe('all', function() {
     it('should be an array of strings', function() {
       expect(courses.all).to.satisfy(isArrayOfStrings);
