@@ -1,5 +1,5 @@
 {
-  "name": "courseNames",
+  "name": "coursenames",
   "version": "0.0.2-semantically-released",
   "description": "Get random courses names",
   "main": "dist/index.js",

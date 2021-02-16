@@ -7,7 +7,7 @@ export default {
   output: {
     path: join(__dirname, 'dist'),
     libraryTarget: 'umd',
-    library: 'courseNames',
+    library: 'coursenames',
   },
   devtool: 'source-map',
   module: {
